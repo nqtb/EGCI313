@@ -1,5 +1,12 @@
 Hello world 
 dropdropdrop
 second commit
+<<<<<<< HEAD
 2Day is the second lab
 a msg
+=======
+2Day is the third lab
+
+hiwkaowlaewkubbbb 
+sung GRAB LOEY MA KUBB
+>>>>>>> 24befc44c5e1926d7edc675c77e89ab253881614
